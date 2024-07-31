@@ -1,0 +1,24 @@
+.links {
+    margin-right: 10px;
+}
+
+a {
+text-decoration: underline;
+}
+
+.col-1 {
+margin-left: 150px;
+}
+
+.col-2 {
+    margin-left: 700px;
+}
+
+i {
+    padding-right: 25px;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
