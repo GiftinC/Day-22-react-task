@@ -5,10 +5,10 @@ import Icon2 from "../../src/assets/Icon2.png"
 import Icon3 from "../../src/assets/Icon3.png"
 
 const IconMap = {
-    1:Icon1,
-    2:Icon2,
-    3:Icon3
-}  
+    1: Icon1,
+    2: Icon2,
+    3: Icon3
+}
 
 
 const FeaturesList = [
@@ -42,7 +42,7 @@ const Features = () => {
                         title={feature.title}
                         description={feature.description}
                         icon={feature.icon}
-                        IconMap = {IconMap}
+                        IconMap={IconMap}
                     />
                 ))}
             </div>
